@@ -1,0 +1,14 @@
+C:\Users\Aluno.torres\ola\obj\Debug\net8.0\ola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno.torres\ola\obj\Debug\net8.0\ola.AssemblyInfoInputs.cache
+C:\Users\Aluno.torres\ola\obj\Debug\net8.0\ola.AssemblyInfo.cs
+C:\Users\Aluno.torres\ola\obj\Debug\net8.0\ola.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.torres\ola\bin\Debug\net8.0\ola.exe
+C:\Users\Aluno.torres\ola\bin\Debug\net8.0\ola.deps.json
+C:\Users\Aluno.torres\ola\bin\Debug\net8.0\ola.runtimeconfig.json
+C:\Users\Aluno.torres\ola\bin\Debug\net8.0\ola.dll
+C:\Users\Aluno.torres\ola\bin\Debug\net8.0\ola.pdb
+C:\Users\Aluno.torres\ola\obj\Debug\net8.0\ola.dll
+C:\Users\Aluno.torres\ola\obj\Debug\net8.0\refint\ola.dll
+C:\Users\Aluno.torres\ola\obj\Debug\net8.0\ola.pdb
+C:\Users\Aluno.torres\ola\obj\Debug\net8.0\ola.genruntimeconfig.cache
+C:\Users\Aluno.torres\ola\obj\Debug\net8.0\ref\ola.dll
